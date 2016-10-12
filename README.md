@@ -124,7 +124,8 @@ The packages listed above for Ubuntu 13.10 are required, as well as:
 
 ```
 sudo apt-get install \
-    libiberty-dev
+    libiberty-dev \
+    pkg-config
 ```
 
 The above packages are sufficient for Ubuntu 13.10 and Ubuntu 14.04.
